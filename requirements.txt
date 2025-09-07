@@ -1,3 +1,4 @@
+ipykernel
 sentence-transformers==5.1.0
 langchain
 flask
